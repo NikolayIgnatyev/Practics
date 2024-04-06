@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ11", "PZ11\PZ11.csproj", "{76FC8CCC-C3F5-49C1-A6D9-565AC8192E4F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PZ11.Desktop", "PZ11.Desktop\PZ11.Desktop.csproj", "{1E890BD0-54C5-498D-9576-6253C72C8D7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PZ11.WPF", "PZ11.WPF\PZ11.WPF.csproj", "{8720B682-0B61-49B7-BB8F-C06F439F9467}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76FC8CCC-C3F5-49C1-A6D9-565AC8192E4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76FC8CCC-C3F5-49C1-A6D9-565AC8192E4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76FC8CCC-C3F5-49C1-A6D9-565AC8192E4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76FC8CCC-C3F5-49C1-A6D9-565AC8192E4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E890BD0-54C5-498D-9576-6253C72C8D7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E890BD0-54C5-498D-9576-6253C72C8D7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E890BD0-54C5-498D-9576-6253C72C8D7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E890BD0-54C5-498D-9576-6253C72C8D7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8720B682-0B61-49B7-BB8F-C06F439F9467}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8720B682-0B61-49B7-BB8F-C06F439F9467}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8720B682-0B61-49B7-BB8F-C06F439F9467}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8720B682-0B61-49B7-BB8F-C06F439F9467}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23555036-E46A-4339-9949-B1519F38FC92}
+	EndGlobalSection
+EndGlobal
